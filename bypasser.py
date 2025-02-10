@@ -51,6 +51,8 @@ otherslist = [
     "ytsubme.com",
     "social-unlock.com",
     "boost.ink",
+    "gplinks.co",
+    "ouo.press",
     "goo.gl",
     "shrto.ml",
     "t.co",
@@ -65,6 +67,8 @@ gdlist = [
     "drivebit",
     "drivelinks",
     "driveace",
+    "gplinks.co",
+    "ouo.press",
     "drivepro",
     "driveseed",
 ]
